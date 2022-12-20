@@ -1,4 +1,4 @@
-<a href="[링크걸_주소](https://velog.io/@julius1231/series)"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+<a href="[](https://velog.io/@julius1231/series)"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 ### Hi there 👋
